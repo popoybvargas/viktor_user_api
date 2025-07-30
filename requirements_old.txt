@@ -163,7 +163,7 @@ jupyter @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_34
 jupyter-console @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e8qcp1kdie/croot/jupyter_console_1679999714867/work
 jupyter-events @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0afa1efv4o/croot/jupyter_events_1699282487467/work
 jupyter-lsp @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8bgnow1zue/croot/jupyter-lsp-meta_1699978255202/work
-jupyter-server==1.24.0
+jupyter-server==2.11.2
 jupyter-ydoc @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_79b9hk1z3q/croot/jupyter_ydoc_1683747244664/work
 jupyter_client @ file:///Users/ec2-user/ci_py311/jupyter_client_1678316948346/work
 jupyter_core @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_52dd_abw8z/croot/jupyter_core_1698937540478/work
